@@ -1,3 +1,9 @@
+
+### 🗃️ Activity Log
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=25&pause=1000&color=24F700&background=000000&multiline=true&width=750&height=200&lines=%5B%E2%9C%93%5D+Socket+connection+established+to+node_RF_27.;%5B%E2%9C%93%5D+Intercepting+network+packets+via+Wireshark...+Passive+monitoring+live.;%5B%E2%9C%93%5D+Compiling+custom+exploit+payload+in+C%2B%2B+%2F+Go...+Compiled+successfully.;%5B!%5D+Fuzzing+target+binaries+for+unhandled+memory+leaks...+42%25+completed.;%5B%E2%9C%93%5D+Synchronizing+local+Git+repositories+to+the+main+shell.;%5B!%5D+Warning%3A+High+resource+usage+detected+in+local+Docker+sandbox.)](https://git.io/typing-svg)
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=INITIALIZING+SESSION...;ACCESS+GRANTED...;WELCOME+TO+MY+SHELL." alt="Typing SVG" />
 </p>
@@ -16,6 +22,3 @@
 ```bash
 $ neofetch --user ZyntaxSculptor
 
-### 🗃️ Activity Log
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=25&pause=1000&color=24F700&background=000000&multiline=true&width=750&height=200&lines=%5B%E2%9C%93%5D+Socket+connection+established+to+node_RF_27.;%5B%E2%9C%93%5D+Intercepting+network+packets+via+Wireshark...+Passive+monitoring+live.;%5B%E2%9C%93%5D+Compiling+custom+exploit+payload+in+C%2B%2B+%2F+Go...+Compiled+successfully.;%5B!%5D+Fuzzing+target+binaries+for+unhandled+memory+leaks...+42%25+completed.;%5B%E2%9C%93%5D+Synchronizing+local+Git+repositories+to+the+main+shell.;%5B!%5D+Warning%3A+High+resource+usage+detected+in+local+Docker+sandbox.)](https://git.io/typing-svg)
